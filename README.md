@@ -1,6 +1,11 @@
 # ✨ Hello World!
 
+Sample Book project using Promptbook and pure vanilla JavaScript in Node.js environment
+
 Welcome! In this repository, you'll find a simple example of how to write your first [Book](https://github.com/webgptorg/book) and run it using the [Promptbook Engine](https://github.com/webgptorg/promptbook) via the CLI.
+
+> TODO: !!!!!! Merge Book and Node Getting Started
+
 
 ## Getting Started
 
