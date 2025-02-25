@@ -44,6 +44,14 @@ AZUREOPENAI_DEPLOYMENT_NAME=...
 ### 4. Run the Example
 From the root of the repository, execute the following command to run the example:
 
+
+```bash
+node index.js
+```
+
+Or you can run same example via CLI bypasing Node.js:
+
+
 ```bash
 npx ptbk books/hello.book.md
 ```
