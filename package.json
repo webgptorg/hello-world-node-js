@@ -17,6 +17,6 @@
     },
     "homepage": "https://github.com/webgptorg/hello-world-node-js#readme",
     "dependencies": {
-        "ptbk": "0.86.0"
+        "ptbk": "0.86.5"
     }
 }
